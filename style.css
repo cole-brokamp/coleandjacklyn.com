@@ -1,0 +1,21 @@
+a:link {
+    color: #4d7722;
+}
+a:visited {
+    color: #999999;
+}
+a:hover {
+    color: #59b300;
+}
+
+body{
+    font-family: Lucida Grande;
+    font-size: 16pt;
+    text-align: left;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: Lucida Grande;
+    font-size: 24pt;
+    text-align: center;
+}
