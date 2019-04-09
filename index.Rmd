@@ -7,15 +7,15 @@ output:
 
 <br>
 
-![](wedding_invitation_header.png)
+<img src="wedding_invitation_header.png" width="800" class="center"/>
 
 ## Jacklyn and Cole Are Getting Married!
 
 <br>
 
 - [Green Valley Ranch, Montana](http://www.greenvalleyranchmontana.com/)
+  - check in 6/13 @ 3pm, check out 6/18 @ 10am
   - [getting there](http://www.greenvalleyranchmontana.com/getting-here/)
   - [lodge](./lodge_blueprint.pdf) and [cabin](./cabin_blueprint.pdf) blueprints
-  - check in 6/13 @ 3pm, check out 6/18 @ 10am
 - [Suggested Itinerary](./Activity Recommendations - Howard Brokamp.pdf)
-- [#supercoolhashtag](https://www.instagram.com/explore/tags/supercoolhashtag/)
+- [#BroCamp2019](https://www.instagram.com/explore/tags/BroCamp2019/)
